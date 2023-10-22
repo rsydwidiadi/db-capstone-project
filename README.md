@@ -15,3 +15,9 @@ Grading Criteria:
 - Proper implementation of the UpdateBooking() procedure.
 - Proper implementation of the AddBooking() procedure.
 - Proper implementation of the CancelBooking() procedure.
+
+Inside the folders
+
+- SQL: Little Lemon.sql
+- Tableau: Charts and Dashboard
+- Screenshot: Result from an executed Stored Procedures
